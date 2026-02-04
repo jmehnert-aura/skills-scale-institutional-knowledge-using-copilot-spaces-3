@@ -17,8 +17,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA Lead: champions quality, manages test plans, and coordinates bug triage.
+- Release Manager: owns release planning, schedules, and deployment coordination.
+- Technical Writer: ensures documentation is accurate, up-to-date, and accessible.
+- Stakeholder Liaison: bridges communication between project team and stakeholders.
+
+For detailed role descriptions and collaboration requirements, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager

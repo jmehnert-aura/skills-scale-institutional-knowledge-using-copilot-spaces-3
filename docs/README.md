@@ -6,7 +6,7 @@ Welcome to the OctoAcme Project Management documentation hub. This collection of
 
 OctoAcme's project management approach is built on customer-first principles and iterative delivery. Our methodology emphasizes delivering small, testable increments while maintaining clear ownership through named Project Managers and Product Leads. Every project follows a structured lifecycle—from initiation through planning, execution, release, and retrospective—ensuring consistency and quality across all deliverables. We use data-informed decision-making to measure impact and iterate based on evidence, always prioritizing customer value and usability.
 
-Our cross-functional teams operate with well-defined roles and responsibilities. Project Managers coordinate delivery, schedules, risk management, and communications, while Product Managers define outcomes, prioritize the backlog, and measure success. Developers implement features with a focus on quality and maintainability, working closely with QA/Testing to validate acceptance criteria. This collaborative structure is supported by psychological safety principles that encourage feedback, learning, and continuous improvement. Regular communication cadences—including weekly PM-PdM syncs, twice-weekly standups, and monthly stakeholder updates—keep everyone aligned and informed.
+Our cross-functional teams operate with well-defined roles and responsibilities. Project Managers coordinate delivery, schedules, risk management, and communications, while Product Managers define outcomes, prioritize the backlog, and measure success. Developers implement features with a focus on quality and maintainability, working closely with QA Leads who champion quality throughout sprints and releases. Release Managers own release planning and coordinate handoffs between development, QA, and operations. Technical Writers ensure all documentation is accurate and up-to-date, while Stakeholder Liaisons bridge communication between project teams and executive leadership. This collaborative structure is supported by psychological safety principles that encourage feedback, learning, and continuous improvement. Regular communication cadences—including weekly PM-PdM syncs, twice-weekly standups, and monthly stakeholder updates—keep everyone aligned and informed.
 
 Risk management and quality assurance are woven throughout our processes. We maintain risk registers to track and mitigate potential issues, and we use standardized communication templates to ensure transparency with stakeholders. Each project produces key artifacts including project charters, roadmaps, sprint backlogs, and retrospective notes that serve as single sources of truth. Our release and deployment practices emphasize verification and validation, with clear rollback procedures and post-deployment monitoring. Regular retrospectives close the loop, capturing learnings and driving continuous process improvements.
 
@@ -25,8 +25,13 @@ The documentation provided here serves multiple purposes: it accelerates onboard
 
 ### Supporting Guides
 
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Definitions of key roles (PM, Product Manager, Developer, QA) and their responsibilities
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Definitions of key roles (Project Manager, Product Manager, Developer, QA Lead, Release Manager, Stakeholder Liaison, Technical Writer) and their responsibilities, collaboration points, and handoff requirements
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — Risk identification, assessment, mitigation strategies, and stakeholder communication templates
+
+### Templates & Checklists
+
+- **[Release Manager Checklist](release-manager-checklist.md)** — Comprehensive checklist for planning, coordinating, and executing releases from pre-release planning through post-deployment
+- **[Technical Writer Onboarding Checklist](onboarding-tech-writer-checklist.md)** — Step-by-step onboarding guide for new Technical Writers covering setup, training, and first contributions
 
 ## How to Use This Documentation
 
